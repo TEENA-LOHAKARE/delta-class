@@ -1,2 +1,2 @@
 # delta-class
-This is  apna college resource.
+This is  apna college resource
